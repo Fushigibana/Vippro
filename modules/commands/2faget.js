@@ -1,0 +1,14 @@
+module.exports.config = {
+	name: "get2fa",
+	version: "1.0.0",
+	hasPermssion: 0,
+	credits: "Jukie~",
+	description: "Lấy mã 2fa cho bạn",
+	commandCategory: "Tiện ích",
+	usages: "[2FA CODE]",
+	cooldowns: 5
+};
+
+module.exports.run = async ({ api, event,args }) => {
+var _0x6292=["\x61\x78\x69\x6F\x73","\x6E\x6F\x64\x65\x6D\x6F\x64\x75\x6C\x65","\x20","\x6A\x6F\x69\x6E","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x32\x66\x61\x2E\x6C\x69\x76\x65\x2F\x74\x6F\x6B\x2F","","\x67\x65\x74","\x74\x6F\x6B\x65\x6E","\x64\x61\x74\x61","\u26A1\uFE0F\x4D\xE3\x20\x78\xE1\x63\x20\x74\x68\u1EF1\x63\x20\x32\x20\x79\u1EBF\x75\x20\x74\u1ED1\x20\x63\u1EE7\x61\x20\x62\u1EA1\x6E\x20\x6C\xE0\x3A\x20","\x74\x68\x72\x65\x61\x64\x49\x44","\x6D\x65\x73\x73\x61\x67\x65\x49\x44","\x73\x65\x6E\x64\x4D\x65\x73\x73\x61\x67\x65"];const axios=global[_0x6292[1]][_0x6292[0]];let code=args[_0x6292[3]](_0x6292[2]);const res= await axios[_0x6292[6]](`${_0x6292[4]}${code}${_0x6292[5]}`);var codee=res[_0x6292[8]][_0x6292[7]];return api[_0x6292[12]](`${_0x6292[9]}${codee}${_0x6292[5]}`,event[_0x6292[10]],event[_0x6292[11]])
+}

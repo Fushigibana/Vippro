@@ -1,0 +1,135 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "commandDisabled": [
+        "địt.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Bot của Đức Anh :3",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100035423537449"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    "version": "1.2.14",
+    "checktt": {
+        "maxColumn": 100
+    },
+    "nhancoin": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "help": {
+        "autoUnsend": false,
+        "delayUnsend": 120
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
+    },
+    "rankup": {
+        "autoUnsend": false,
+        "unsendMessageAfter": 10
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyDfCSJRwOVOBgRiEY69MexHDIaTbcAJGAY"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyDfCSJRwOVOBgRiEY69MexHDIaTbcAJGAY"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1000000
+    },
+    "adminUpdate": {
+        "autoUnsend": false,
+        "sendNoti": true,
+        "timeToUnsend": 15
+    },
+    "ghep": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "info": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "sim": {
+        "APIKEY": "Meew_EacjUc0sbDjRCwbwQnRhlP7PMOlhZw"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "shortlink": {
+        "bitlyAPI": "41213321971dfaded3d38ff7f4fb9aed3785a3fd"
+    },
+    "log": {
+        "enable": true
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "tenngaunhien": {
+        "APIKEY": "mi451266190"
+    },
+    "Nhancoin": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 2000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 500
+    },
+    "covid": {
+        "APIKEY": "Meew_EacjUc0sbDjRCwbwQnRhlP7PMOlhZw"
+    },
+    "img": {
+        "APIKEY": "Meew_EacjUc0sbDjRCwbwQnRhlP7PMOlhZw"
+    },
+    "hitbutt": {
+        "APIKEY": "Meew_EacjUc0sbDjRCwbwQnRhlP7PMOlhZw"
+    },
+    "slap": {
+        "APIKEY": "Meew_EacjUc0sbDjRCwbwQnRhlP7PMOlhZw"
+    },
+    "sortword": {
+        "APIKEY": "Meew_EacjUc0sbDjRCwbwQnRhlP7PMOlhZw"
+    },
+    "ghép": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "teach": {
+        "APIKEY": "Meew_EacjUc0sbDjRCwbwQnRhlP7PMOlhZw"
+    }
+}
